@@ -55,8 +55,8 @@ fields:
   config:
     required: true
 pages:
-- blog/post-1.md
-- blog/post-2.md
-- blog/post-3.md
-- blog/post-4.md
-- blog/post-5.md
+- content/blog/post-1.md
+- content/blog/post-2.md
+- content/blog/post-3.md
+- content/blog/post-4.md
+- content/blog/post-5.md

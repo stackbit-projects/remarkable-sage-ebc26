@@ -28,14 +28,14 @@ fields:
   config:
     required: true
 pages:
-- about.md
-- blog/author/dianne-ameter.md
-- blog/author/gordon-norman.md
-- blog/author/miles-tone.md
-- blog/category/general.md
-- blog/category/news.md
-- blog/category/tutorials.md
-- blog/_index.md
-- contact.md
-- features.md
-- _index.md
+- content/_index.md
+- content/about.md
+- content/blog/_index.md
+- content/blog/author/dianne-ameter.md
+- content/blog/author/gordon-norman.md
+- content/blog/author/miles-tone.md
+- content/blog/category/general.md
+- content/blog/category/news.md
+- content/blog/category/tutorials.md
+- content/contact.md
+- content/features.md

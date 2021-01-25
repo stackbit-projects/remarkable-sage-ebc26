@@ -20,5 +20,5 @@ fields:
   config:
     required: true
 pages:
-- style-guide.md
-- terms.md
+- content/style-guide.md
+- content/terms.md
